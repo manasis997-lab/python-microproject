@@ -75,4 +75,8 @@ python main.py
 ## Author
 
 Created as a Python learning project to practice GUI development, file handling, and game logic.
+<img width="1896" height="1137" alt="image" src="https://github.com/user-attachments/assets/5125de1f-cf1e-4bf2-beb4-779ae06225e4" />
+
+
+
 
